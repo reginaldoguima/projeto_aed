@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546996463 source:c:\users\reginaldo guimarães\projeto aed\projeto_aed\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
